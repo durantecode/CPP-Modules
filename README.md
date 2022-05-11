@@ -22,5 +22,5 @@ Pretty good exercises and tons of new material.
 
 I recommend this tutorials I followed which helped a lot:
 
-CodeBeauty ---> https://youtu.be/iVLQeWbgbXs
-TheCherno ----> https://youtu.be/18c3MTX0PK0
+[CodeBeauty](https://youtu.be/iVLQeWbgbXs)
+[TheCherno](https://youtu.be/18c3MTX0PK0)
