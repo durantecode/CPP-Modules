@@ -24,6 +24,6 @@ You can find also a small script to create a class on the orthodox canonical for
 
 I followed several courses you can find on youtube, but these two were the best for me, go learn and subscribe!
 
-[CodeBeauty](https://youtu.be/iVLQeWbgbXs) \
+[CodeBeauty](https://www.youtube.com/watch?v=iVLQeWbgbXs&list=PL43pGnjiVwgTJg7uz8KUGdXRdGKE0W_jN) \
 [TheCherno](https://youtu.be/18c3MTX0PK0)
 
