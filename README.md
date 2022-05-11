@@ -18,3 +18,9 @@ Pretty good exercises and tons of new material.
 |[CPP-06](https://github.com/durantecode/CPP-06)|Casts | Finished ✅ |
 |[CPP-07](https://github.com/durantecode/CPP-07)|Templates | Finished ✅ |
 |[CPP-08](https://github.com/durantecode/CPP-08)|Templated containers, iterators, algorithms | Finished ✅ |
+
+
+I recommend this tutorials I followed which helped a lot:
+
+CodeBeauty ---> https://youtu.be/iVLQeWbgbXs
+TheCherno ----> https://youtu.be/18c3MTX0PK0
