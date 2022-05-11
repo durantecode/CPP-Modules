@@ -24,5 +24,5 @@ Pretty good exercises and tons of new material.
 I followed several courses you can find on youtube, but these two were the best for me, go learn and subscribe!
 
 [CodeBeauty](https://youtu.be/iVLQeWbgbXs) \
-[TheCherno](https://youtu.be/18c3MTX0PK0) \
+[TheCherno](https://youtu.be/18c3MTX0PK0)
 
