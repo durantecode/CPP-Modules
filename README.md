@@ -4,6 +4,7 @@ The goal of this C++ modules is to introduce us into Object Oriented Programming
 All the exercises cover the main basic stuff... Std namespace, member fuctions, classes, inheritance, polymorphism, exceptions, templates... etc.
 
 Pretty good exercises and tons of new material.
+You can find also a small script to create a class on the orthodox canonical form.
 
 ## [Modules]
 
